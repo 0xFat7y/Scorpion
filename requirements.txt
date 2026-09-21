@@ -1,0 +1,13 @@
+# Runtime dependencies for scorpion.py
+requests
+urllib3
+GitPython
+PyYAML
+Flask
+beautifulsoup4
+colorama
+rich
+prompt_toolkit
+aiohttp
+selenium
+webdriver-manager
