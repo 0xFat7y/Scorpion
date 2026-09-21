@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🦂 Scorpion</h1>
+  <h1>Scørp!øn ☣︎</h1>
   <p>Active web vulnerability testing tool for authorized security assessments</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3.x-8b0000?logo=python&logoColor=white" alt="Python 3.x">
@@ -35,7 +35,7 @@ Scorpion is an interactive CLI that sends test payloads to a URL (or a list of U
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/scorpion.git
+git clone https://github.com/Scorpion/scorpion.git
 cd scorpion
 python3 -m pip install -r requirements.txt
 python3 scorpion.py
